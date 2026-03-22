@@ -1,6 +1,6 @@
-keyword,niche,prompt_type,ai_model,language,affiliate_link,status,published_url,published_date,quality_score,word_count
-로봇청소기 추천 2026,스마트홈,review,auto,ko,,pending,,,, 
-자동 급식기 비교 리뷰,반려동물,review,auto,ko,,pending,,,,
-에어프라이어 추천 가성비,주방가전,review,auto,ko,,pending,,,,
-best robot vacuum 2026,Smart Home,review,auto,en,,pending,,,,
-automatic cat feeder review,Pet Supplies,review,auto,en,,pending,,,,
+prompt_type,ai_model,keyword,published_date,status,affiliate_link,language,published_url,quality_score,ai_model_used,word_count,niche
+review,auto,로봇청소기 추천 2026,2026-03-22,published,,ko,https://wordpress-1603953-6298264.cloudwaysapps.com/2026-3/,88,gemini-2.5-flash,4570,스마트홈
+review,auto,자동 급식기 비교 리뷰,,pending,,ko,,,,,반려동물
+review,auto,에어프라이어 추천 가성비,,pending,,ko,,,,,주방가전
+review,auto,best robot vacuum 2026,,pending,,en,,,,,Smart Home
+review,auto,automatic cat feeder review,,pending,,en,,,,,Pet Supplies
